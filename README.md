@@ -1,3 +1,7 @@
+<style>
+ figure.badge{
+   border: 8px solid white;}
+</style>
 <div class="top" align="center" > 
  <h2>Olááááá, sou David Eduardo, um Q.A junior! Bem vindo ao meu perfil.</h2>
    <hr></hr>
@@ -20,11 +24,12 @@
   <hr></hr>
 </div>
 <div align="center">
-  <h3><b>Algumas das minhas Holopin Badges:</b></h3> 
+   <h3><b>Algumas das minhas Holopin Badges:</b></h3> 
+   <figure = class="badge">
+    <img src="https://holopin.me/eduvieirati">
+   </figure>
  </div>
-  
-[![@eduvieirati's Holopin board](https://holopin.me/eduvieirati)](https://holopin.io/@eduvieirati)
-
+ 
 <div align="center"> 
     <h4>Contato e redes sociais:</h4>
     <a href="https://instagram.com/eduardo_lndr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
