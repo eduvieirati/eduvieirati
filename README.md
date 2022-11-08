@@ -9,5 +9,5 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Cypress, JS.
 - 📫 How to reach me: david.eduardoti@gmail.com
 - 😄 Pronouns: He/his
-
+-->
 [![@eduvieirati's Holopin board](https://holopin.me/eduvieirati)](https://holopin.io/@eduvieirati)
