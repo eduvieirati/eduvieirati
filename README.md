@@ -1,7 +1,3 @@
-<style>
- figure.badge{
-   border: 8px solid white;}
-</style>
 <div class="top" align="center" > 
  <h2>Olááááá, sou David Eduardo, um Q.A junior! Bem vindo ao meu perfil.</h2>
    <hr></hr>
@@ -25,10 +21,9 @@
 </div>
 <div align="center">
    <h3><b>Algumas das minhas Holopin Badges:</b></h3> 
-   <figure = class="badge">
-    <img src="https://holopin.me/eduvieirati">
-   </figure>
- </div>
+   <img src="https://holopin.me/eduvieirati">
+   <hr></hr>
+</div>
  
 <div align="center"> 
     <h4>Contato e redes sociais:</h4>
