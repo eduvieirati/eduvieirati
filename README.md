@@ -15,7 +15,8 @@
   <img align="center" alt="Edu-HTML" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Edu-Python" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Edu-Cypress" height="30" width="30" src="https://pics.freeicons.io/uploads/icons/png/3556671901536211770-512.png"> 
-  <img align="center" alt="Edu-GitHub" height="30" width="30" src="https://www.iconsdb.com/icons/preview/white/github-11-xxl.png">
+  <img align="center" alt="Edu-Git" height="30" width="30" src="https://skillicons.dev/icons?i=git">
+  <img align="center" alt="Edu-GitHub" height="30" width="30" src="https://skillicons.dev/icons?i=github">
     </div>
   <hr></hr>
 </div>
