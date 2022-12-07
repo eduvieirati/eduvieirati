@@ -17,6 +17,13 @@
   <img align="center" alt="edu-cypress" height="30" width="30" src="https://pics.freeicons.io/uploads/icons/png/3556671901536211770-512.png"> 
   <img align="center" alt="edu-git" height="30" width="30" src="https://skillicons.dev/icons?i=git">
   <img align="center" alt="edu-github" height="30" width="30" src="https://skillicons.dev/icons?i=github">
+  <img align="center" alt="edu-vscode" height="30" width="30" src="https://skillicons.dev/icons?i=vscode&theme=light">
+  <img align="center" alt="edu-linux" height="30" width="30" src="https://skillicons.dev/icons?i=linux">  
+  <img align="center" alt="edu-postman" height="30" width="30" src="https://www.svgrepo.com/show/354202/postman-icon.svg"> 
+  <img align="center" alt="edu-jira" height="30" width="30" src="https://img.icons8.com/color/512/jira.png">
+  <img align="center" alt="edu-agile" height="30" width="30" src="https://img.icons8.com/external-flaticons-flat-flat-icons/512/external-agile-agile-flaticons-flat-flat-icons.png"> 
+   <img align="center" alt="edu-findBugs" height="30" width="30" src="https://img.icons8.com/external-flat-lima-studio/512/external-bugs-smart-farm-flat-lima-studio.png"> 
+   <img align="center" alt="edu-gatherTown" height="30" width="30" src="https://dashboard.snapcraft.io/site_media/appmedia/2022/05/gathertown_bek9UzT.png"> 
     </div>
   <hr></hr>
 </div>
